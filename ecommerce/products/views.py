@@ -13,4 +13,3 @@ def greet_user(request):
 #     else:
 #         products = Product.objects.get(id=id)
 #     return Response({'products': products})
-git commit -m "added .gitignore and readme.MD. untracked .venv,.idea"
